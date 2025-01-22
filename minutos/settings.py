@@ -27,7 +27,7 @@ SECRET_KEY = 'j9eta=u(6qrfo&u1x9z8^01j-%f2s+cyozmh*#u9ec($=zd_^d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['minutox.app.vtxhub.com','127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'myaccount'
