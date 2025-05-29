@@ -3,6 +3,7 @@
 import os
 import sys
 
+"""New Comment"""
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'minutos.settings')
